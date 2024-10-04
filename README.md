@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello, I'm William!👋
 
-<!--
-**WilliamBaxter417/WilliamBaxter417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a former research scientist.
 
-Here are some ideas to get you started:
+## 🙋 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 6 YOE in quantitative data-driven research and analysis
+- 📚 PhD in Electrical Engineering | BE (Hons) and ME in Electrical Engineering
+- 📝 Published several technical papers in high impact research journals for engineering 
+- 📏 Instructed multiple introductory and advanced training courses on programming languages to ~700 undergraduate/postgraduate students and industry professionals, including Python, SQL and BASH.
+- 💪 Fun fact: I am 10kg away from breaking the Australian deadlift record for my weight class!
+
+## 🛠️ Skills
+
+**Languages:** Python (NumPy, Pandas, Matplotlib, Plotly), SQL (T-SQL), MATLAB\
+**Tools:** Git/GitHub, PyCharm, Azure Data Studio, MS Office Suite (Excel, PowerPoint, Word), LaTeX\
+**Techniques:** Dynamic Programming, Algorithm Design (Heuristic, Greedy and Randomised), Statistical Analysis, Quantitative Research, Documentation, Technical writing, Data visualization
+
+## 🌐 Contact
+- Insert email
+- Insert LinkedIn
