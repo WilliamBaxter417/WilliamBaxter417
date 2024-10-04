@@ -1,13 +1,13 @@
-## Hello, I'm William!👋
+## Hi, I'm Will!👋
 
-I'm a former research scientist.
+I'm a former research scientist with a passion for working with data and uncovering its real-world impacts.
 
 ## 🙋 About Me
 
 - 🔭 6 YOE in quantitative data-driven research and analysis
-- 📚 PhD in Electrical Engineering | BE (Hons) and ME in Electrical Engineering
+- 📚 PhD in Electrical Engineering and BE (Hons) & ME in Electrical Engineering from the University of New South Wales
 - 📝 Published several technical papers in high impact research journals for engineering 
-- 📏 Instructed multiple introductory and advanced training courses on programming languages to ~700 undergraduate/postgraduate students and industry professionals, including Python, SQL and BASH.
+- 📏 Instructed multiple programming courses to ~700 students and industry professionals, including Python, SQL and BASH.
 - 💪 Fun fact: I am 10kg away from breaking the Australian deadlift record for my weight class!
 
 ## 🛠️ Skills
