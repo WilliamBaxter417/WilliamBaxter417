@@ -14,7 +14,7 @@ I'm a former research scientist with a passion for working with data and uncover
 
 **Languages:** Python (NumPy, Pandas, Matplotlib, Plotly), SQL (T-SQL, MySQL), MATLAB  <br>
 **Tools:** Git/GitHub, PyCharm, Azure Data Studio, MS Office Suite (Excel, PowerPoint, Word), LaTeX  <br>
-**Techniques:** Dynamic Programming, Algorithm Design (Heuristic, Greedy and Randomised), Statistical Analysis, Quantitative Research, Documentation, Technical writing, Data visualization
+**Techniques:** Dynamic Programming, Algorithm Design (Heuristic, Greedy and Randomised), Statistical Analysis, Quantitative Research, Documentation, Technical writing, Data Visualization
 
 ## 🌐 Contact
 
