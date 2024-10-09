@@ -29,3 +29,10 @@ I'm a former research scientist with a passion for working with data and uncover
 [Managing Customer & Product Data](https://github.com/WilliamBaxter417/Portfolio/tree/main/Reporting%20%26%20Database%20Management): Performed exploratory analysis and data validation of a sample e-commerce company using SQL (T-SQL) with the Microsoft Azure framework.
 
 ## Publications
+- [Ambiguity Function Analysis of the Frequency-Hopped Code Selection Scheme](https://ieeexplore.ieee.org/abstract/document/10371075)
+- [Improved Implementation of the Frequency Hopped Code Selection DFRC Scheme](https://ieeexplore.ieee.org/abstract/document/10149725)
+- [Joint Radar and Communications for Frequency-Hopped MIMO Systems](https://ieeexplore.ieee.org/abstract/document/9681340)
+- [A Study on the Performance of Symbol Dictionary Selection for the Frequency Hopped DFRC Scheme](https://ieeexplore.ieee.org/abstract/document/9266476)
+- [Dual-Function MIMO Radar-Communications Via Frequency-Hopping Code Selection](https://ieeexplore.ieee.org/abstract/document/8645212)
+- [Coprime beamforming: fast estimation of more sources than sensors](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-rsn.2018.5647)
+- [Fast Direction-of-Arrival Estimation in Coprime Arrays](https://ieeexplore.ieee.org/abstract/document/8557304)
