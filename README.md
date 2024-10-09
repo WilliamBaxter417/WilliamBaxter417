@@ -26,6 +26,6 @@ I'm a former research scientist with a passion for working with data and uncover
 
 
 ### Reporting & Database Management (SQL)
-[Managing Customer & Product Data](https://github.com/WilliamBaxter417/SQL--Microsoft-Learn): Performed exploratory analysis and data validation of a sample e-commerce company using SQL (T-SQL) with the Microsoft Azure framework.
+[Managing Customer & Product Data](https://github.com/WilliamBaxter417/Portfolio/tree/main/Reporting%20%26%20Database%20Management): Performed exploratory analysis and data validation of a sample e-commerce company using SQL (T-SQL) with the Microsoft Azure framework.
 
 ## Publications
