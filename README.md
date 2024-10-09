@@ -21,4 +21,4 @@ I'm a former research scientist with a passion for working with data and uncover
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="14"> Email me at [william.baxter417@gmail.com](mailto:william.baxter417@gmail.com) <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="14"> Connect with me on LinkedIn at [linkedin.com/william-r-baxter](https://www.linkedin.com/in/william-r-baxter/) <br>
 
-## Data Projects
+## Learning Projects
