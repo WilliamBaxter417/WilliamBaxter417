@@ -1,10 +1,10 @@
 ## Hi, I'm Will!👋
 
-I'm a former research scientist with a passion for leveraging data-driven insights and cutting-edge machine learning to make real-world impacts.
+I'm a Data Science practitioner with a passion for leveraging data-driven insights to make real-world impacts.
 
 ## 🙋 About Me
 
-- 🔭 8 YOE in quantitative data-driven research and analysis <br>
+- 🔭 8+ YOE in quantitative data-driven research and analysis <br>
 - 📚 PhD in Electrical Engineering and BE (Hons) & ME in Electrical Engineering from the University of New South Wales <br>
 - 📝 Published 7 technical papers in high impact research journals for engineering <br>
 - 📏 Instructed programming courses to ~700 students and industry professionals, including Python, SQL and Bash <br>
