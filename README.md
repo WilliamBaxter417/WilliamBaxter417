@@ -15,7 +15,7 @@ I'm a Data Science practitioner with a passion for leveraging data-driven insigh
 **Languages:** Python, Bash, SQL, R, MATLAB, C++, C <br>
 **Frameworks and libraries:** scikit-learn, NumPy, pandas, Matplotlib, seaborn
 **Tools:** PyCharm, JupyterLab, Git, Microsoft Azure <br>
-**Techniques:** Data Science, Statistical Modelling, Quantitative Research, Data Visualization, Algorithm Design (Heuristic, Greedy and Randomised), Technical writing
+**Techniques:** Data Science, Statistical Modelling, Quantitative Research, Data Visualization, Algorithm Design (Heuristic, Greedy and Randomised), Technical Writing
 
 ## 🌐 Contact
 
