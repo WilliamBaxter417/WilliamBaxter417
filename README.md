@@ -4,10 +4,11 @@ I'm a Data Science practitioner with a passion for leveraging data-driven insigh
 
 ## 🙋 About Me
 
-- 🔭 8+ YOE in quantitative data-driven research and analysis <br>
-- 📚 PhD in Electrical Engineering and BE (Hons) & ME in Electrical Engineering from the University of New South Wales <br>
-- 📝 Published 7 technical papers in high impact research journals for engineering <br>
-- 📏 Instructed programming courses to ~700 students and industry professionals, including Python, SQL and Bash <br>
+- 🔭 8+ YOE across industry and academia in quantitative research and analysis <br>
+- 📚 PhD in Electrical Engineering and BE (Hons, 1st) & ME in Electrical Engineering from the University of New South Wales <br>
+- 📈 Supervised research teams and led 5 data-driven projects <br>
+- 📝 Published 7 technical papers in high-impact research journals for engineering <br>
+- 📏 Delivered data science courses on Python, SQL and other programming languages to industry professionals. <br>
 
 ## 🛠️ Skills
 
@@ -22,11 +23,18 @@ I'm a Data Science practitioner with a passion for leveraging data-driven insigh
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="14"> Connect with me on LinkedIn at [linkedin.com/william-r-baxter](https://www.linkedin.com/in/william-r-baxter/) <br>
 
 ## Learning Projects
-### Dynamic Programming (Python)
+### Machine Learning (Python)
+[Predicting Credit Card Application Approvals](https://github.com/WilliamBaxter417/Portfolio/tree/main/Machine%20Learning/Credit%20Card%20Approval): Developed machine learning models in Python to predict credit card application approvals. Implemented logistic regression, k-nearest neighbours and random forest algorithms. Explored data processing, data integrity, hyperparameter tuning and model evaluation metrics.
 
+[Loan Repayment Prediction using Feature Selection](https://github.com/WilliamBaxter417/Portfolio/tree/main/Machine%20Learning/Predicting%20Loan%20Repayments): Applying machine learning and statistical techniques in Python to identify key features driving loan defaults. Exploring feature selection, feature engineering and dimensionality reduction.
+
+### Dynamic Programming and Algorithm Design (Python)
+[Performance Analysis of the Frequency-Hopped Code Selection Scheme](https://github.com/WilliamBaxter417/Portfolio/tree/main/Dynamic%20Programming%20%26%20Algorithm%20Design): Implementation of the Frequency-Hopped Code Selection (FHCS) scheme for Dual-Function Radar Communications (DFRC) technologies which was the subject of my PhD thesis. Showcases proficiency with dynamic programming and algorithm design with Python.
+
+This section of my portfolio showcases my programming proficiency and familiarity with the Python language through an implementation of the Frequency-Hopped Code Selection (FHCS) scheme for Dual-Function Radar Communications (DFRC) technologies. I developed this scheme during my PhD candidature and it served as the subject of my doctoral thesis. This scheme was first published in the IEEE Xplore research database in 2018, and has since gathered traction and relevancy within the international DFRC research space.
 
 ### Reporting & Database Management (SQL)
-[Managing Customer & Product Data](https://github.com/WilliamBaxter417/Portfolio/tree/main/Reporting%20%26%20Database%20Management): Performed exploratory analysis and data validation of a sample e-commerce company using SQL (T-SQL) with the Microsoft Azure framework.
+[Managing Customer & Product Data](https://github.com/WilliamBaxter417/Portfolio/tree/main/Reporting%20%26%20Database%20Management): Created a relational cloud database back-end to store and query synthetic customer and sales data of a sample e-commerce company using the Microsoft Azure framework. Explored schemas, queries, data analytics and dashboards.
 
 ## Publications
 - [Ambiguity Function Analysis of the Frequency-Hopped Code Selection Scheme](https://ieeexplore.ieee.org/abstract/document/10371075)
