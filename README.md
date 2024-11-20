@@ -8,7 +8,7 @@ I'm a Data Science practitioner with a passion for leveraging data-driven insigh
 - 📚 PhD in Electrical Engineering, ME and BE (Hons, 1st) in Electrical Engineering from the University of New South Wales <br>
 - 📈 Supervised research teams and led 5 data-driven projects from conception to completion <br>
 - 📝 Published 7 technical papers in high-impact research journals for engineering <br>
-- 📏 Delivered data science courses on Python, SQL and other programming languages to industry professionals. <br>
+- 📏 Delivered data science courses on Python, SQL and other programming languages to industry professionals <br>
 
 ## 🛠️ Skills
 
